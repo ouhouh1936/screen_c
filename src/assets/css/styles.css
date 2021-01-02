@@ -1,0 +1,165 @@
+.app {
+  width: 100%;
+}
+.app .app__col1 {
+  width: 100%;
+  height: 70px;
+  background-color: royalblue;
+}
+.app .app__col2 {
+  width: 100%;
+  height: 700px;
+  background-color: slateblue;
+}
+.app .app__col3 {
+  width: 100%;
+  height: 300px;
+  background-color: tomato;
+
+  display: flex;
+  flex-direction: row;
+}
+.app .app__col3 .app__col3__col1 {
+  width: 50%;
+  height: 100%;
+  background-color: cornflowerblue;
+}
+.app .app__col3 .app__col3__col2 {
+  width: 50%;
+  height: 100%;
+  background-color: #a29bfe;
+
+  display: flex;
+  flex-direction: column;
+}
+.app .app__col3 .app__col3__col2 .app__col3__col2__col1 {
+  width: 100%;
+  height: 150px;
+  background-color: #e84393;
+}
+.app .app__col3 .app__col3__col2 .app__col3__col2__col2 {
+  width: 100%;
+  height: 150px;
+  background-color: #fd79a8;
+}
+.app .app__col4 {
+  width: 100%;
+  height: 150px;
+  background-color: violet;
+
+  display: flex;
+  flex-direction: row;
+}
+.app .app__col4 .app__col4__col1 {
+  width: 20%;
+  height: 100%;
+  background-color: #a3ddcb;
+}
+.app .app__col4 .app__col4__col2 {
+  width: 20%;
+  height: 100%;
+  background-color: #f6ecf0;
+}
+.app .app__col4 .app__col4__col3 {
+  width: 20%;
+  height: 100%;
+  background-color: #c9cbff;
+}
+.app .app__col4 .app__col4__col4 {
+  width: 20%;
+  height: 100%;
+  background-color: #e8e9a1;
+}
+.app .app__col4 .app__col4__col5 {
+  width: 20%;
+  height: 100%;
+  background-color: #fcf8e8;
+}
+.app .app__col5 {
+  width: 100%;
+  height: 250px;
+  background-color: #74b9ff;
+
+  display: flex;
+  flex-direction: row;
+}
+.app .app__col5 .app__col5__col1 {
+  width: 20%;
+  height: 100%;
+  background-color: darkblue;
+}
+.app .app__col5 .app__col5__col2 {
+  width: 1350px;
+  height: 100%;
+  background-color: #98acf8;
+}
+.app .app__col5 .app__col5__col3 {
+  width: 20%;
+  height: 100%;
+  background-color: black;
+}
+.app .app__col6 {
+  width: 100%;
+  height: 210px;
+  background-color: aquamarine;
+
+  display: flex;
+  flex-direction: column;
+}
+.app .app__col6 .app__col6__col1 {
+  width: 100%;
+  height: 100px;
+  background-color: cornflowerblue;
+
+  display: flex;
+  flex-direction: row;
+}
+.app .app__col6 .app__col6__col1 .app__col6__col1__col1 {
+  width: 300px;
+  height: 100%;
+  background-color: deeppink;
+}
+.app .app__col6 .app__col6__col2 {
+  width: 100%;
+  height: 110px;
+  background-color: darkred;
+
+  display: flex;
+  flex-direction: row;
+}
+.app .app__col6 .app__col6__col2 .app__col6__col2__col1 {
+  width: 300px;
+  height: 100%;
+  background-color: fuchsia;
+}
+.app .app__col6 .app__col6__col2 .app__col6__col2__col2 {
+  width: 960px;
+  height: 100%;
+  background-color: hotpink;
+}
+.app .app__col6 .app__col6__col2 .app__col6__col2__col3 {
+  width: 300px;
+  height: 100%;
+  background-color: indigo;
+
+  display: flex;
+  flex-direction: column;
+}
+.app
+  .app__col6
+  .app__col6__col2
+  .app__col6__col2__col3
+  .app__col6__col2__col3__col1 {
+  width: 100%;
+  height: 60px;
+  background-color: lightcoral;
+}
+.app
+  .app__col6
+  .app__col6__col2
+  .app__col6__col2__col3
+  .app__col6__col2__col3__col2 {
+  width: 100%;
+  height: 50px;
+  background-color: lightskyblue;
+}
